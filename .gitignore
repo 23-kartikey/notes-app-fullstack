@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+
+# Java / Spring Boot
+target/
+
+# IDE
+.vscode/
+
+# Env
+.env
+
+# OS
+.DS_Store
